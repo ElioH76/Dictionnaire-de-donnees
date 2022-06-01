@@ -1,0 +1,32 @@
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\Juke-box\Juke-Box\obj\Debug\net5.0\Juke-Box.csproj.AssemblyReference.cache
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\Juke-box\Juke-Box\obj\Debug\net5.0\Juke-Box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\Juke-box\Juke-Box\obj\Debug\net5.0\Juke-Box.AssemblyInfoInputs.cache
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\Juke-box\Juke-Box\obj\Debug\net5.0\Juke-Box.AssemblyInfo.cs
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\Juke-box\Juke-Box\obj\Debug\net5.0\Juke-Box.csproj.CoreCompileInputs.cache
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\Juke-box\Juke-Box\bin\Debug\net5.0\Juke-Box.exe
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\Juke-box\Juke-Box\bin\Debug\net5.0\Juke-Box.deps.json
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\Juke-box\Juke-Box\bin\Debug\net5.0\Juke-Box.runtimeconfig.json
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\Juke-box\Juke-Box\bin\Debug\net5.0\Juke-Box.runtimeconfig.dev.json
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\Juke-box\Juke-Box\bin\Debug\net5.0\Juke-Box.dll
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\Juke-box\Juke-Box\bin\Debug\net5.0\ref\Juke-Box.dll
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\Juke-box\Juke-Box\bin\Debug\net5.0\Juke-Box.pdb
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\Juke-box\Juke-Box\obj\Debug\net5.0\Juke-Box.dll
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\Juke-box\Juke-Box\obj\Debug\net5.0\ref\Juke-Box.dll
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\Juke-box\Juke-Box\obj\Debug\net5.0\Juke-Box.pdb
+C:\Users\33679\Desktop\Cours SIO2\Atelier Mercy Mardi\Juke-box\Juke-Box\obj\Debug\net5.0\Juke-Box.genruntimeconfig.cache
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\Juke-box\Juke-Box\bin\Debug\net5.0\Juke-Box.exe
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\Juke-box\Juke-Box\bin\Debug\net5.0\Juke-Box.deps.json
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\Juke-box\Juke-Box\bin\Debug\net5.0\Juke-Box.runtimeconfig.json
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\Juke-box\Juke-Box\bin\Debug\net5.0\Juke-Box.runtimeconfig.dev.json
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\Juke-box\Juke-Box\bin\Debug\net5.0\Juke-Box.dll
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\Juke-box\Juke-Box\bin\Debug\net5.0\Juke-Box.pdb
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\Juke-box\Juke-Box\obj\Debug\net5.0\Juke-Box.csproj.AssemblyReference.cache
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\Juke-box\Juke-Box\obj\Debug\net5.0\Juke-Box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\Juke-box\Juke-Box\obj\Debug\net5.0\Juke-Box.AssemblyInfoInputs.cache
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\Juke-box\Juke-Box\obj\Debug\net5.0\Juke-Box.AssemblyInfo.cs
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\Juke-box\Juke-Box\obj\Debug\net5.0\Juke-Box.csproj.CoreCompileInputs.cache
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\Juke-box\Juke-Box\obj\Debug\net5.0\Juke-Box.dll
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\Juke-box\Juke-Box\obj\Debug\net5.0\refint\Juke-Box.dll
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\Juke-box\Juke-Box\obj\Debug\net5.0\Juke-Box.pdb
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\Juke-box\Juke-Box\obj\Debug\net5.0\Juke-Box.genruntimeconfig.cache
+C:\Users\eliod\OneDrive\Bureau\Mercy mardi\Juke-box\Juke-Box\obj\Debug\net5.0\ref\Juke-Box.dll
